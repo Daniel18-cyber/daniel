@@ -23,7 +23,7 @@ const Hero = () => {
   return (
     <section className="hero" id="home">
       <div className="hero-content">
-        <h1>Frontend<br />Developer</h1>
+        <h1>UI/UX<br />Designer</h1>
         <h3 className="typing">
           <span ref={typedRef}></span>
         </h3>

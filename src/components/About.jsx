@@ -13,7 +13,7 @@ const About = () => {
         </h2>
 
         <p data-aos="fade-right" data-aos-delay="200">
-          Saya adalah seorang Frontend Developer yang bersemangat menciptakan website modern dan responsive. Saya suka belajar teknologi baru dan selalu ingin meningkatkan keterampilan dalam pengembangan web.
+          Saya adalah seorang pelajar yang minat  di UI/UX Designer dan bersemangat menciptakan website modern dan responsive. Saya suka belajar teknologi baru dan selalu ingin meningkatkan keterampilan dalam pengembangan web.
         </p>
 
         <blockquote data-aos="fade-up" data-aos-delay="400">
